@@ -1,0 +1,342 @@
+{
+    "creators": [
+        {
+            "orcid": "0000-0002-4317-2879",
+            "name": "Jacobsson, T. Jesper"
+        },
+        {
+            "orcid": "0000-0002-2402-5427",
+            "name": "Hultqvist, Adam"
+        },
+        {
+            "orcid": "0000-0003-1671-9979",
+            "name": "García-Fernández, Alberto"
+        },
+        {
+            "orcid": "0000-0001-8984-1663",
+            "name": "Anand, Aman"
+        },
+        {
+            "orcid": "0000-0001-5512-8034",
+            "name": "Al-Ashouri, Amran"
+        },
+        {
+            "name": "Hagfeldt, Anders"
+        },
+        {
+            "orcid": "0000-0003-1499-8740",
+            "name": "Crovetto, Andrea"
+        },
+        {
+            "name": "Abate, Antonio"
+        },
+        {
+            "orcid": "0000-0003-2688-9912",
+            "name": "Ricciardulli, Antonio Gaetano"
+        },
+        {
+            "name": "Vijayan, Anuja"
+        },
+        {
+            "orcid": "0000-0002-7945-208X",
+            "name": "Kulkarni, Ashish"
+        },
+        {
+            "name": "Anderson, Assaf Y."
+        },
+        {
+            "name": "Darwich, Barbara Primera"
+        },
+        {
+            "name": "Yang, Bowen"
+        },
+        {
+            "orcid": "0000-0002-1291-4403",
+            "name": "Coles, Brendan L."
+        },
+        {
+            "name": "Perini, Carlo A. R."
+        },
+        {
+            "name": "Rehermann, Carolin"
+        },
+        {
+            "orcid": "0000-0003-2630-7628",
+            "name": "Ramirez, Daniel"
+        },
+        {
+            "orcid": "0000-0002-5013-1194",
+            "name": "Fairen-Jimenez, David"
+        },
+        {
+            "name": "Di Girolamo, Diego"
+        },
+        {
+            "name": "Jia, Donglin"
+        },
+        {
+            "name": "Avila, Elena"
+        },
+        {
+            "orcid": "0000-0001-6040-1920",
+            "name": "Juarez-Perez, Emilio J."
+        },
+        {
+            "orcid": "0000-0003-0203-5971",
+            "name": "Baumann, Fanny"
+        },
+        {
+            "orcid": "0000-0002-8950-3901",
+            "name": "Mathies, Florian"
+        },
+        {
+            "name": "González, G. S. Anaya"
+        },
+        {
+            "name": "Boschloo, Gerrit"
+        },
+        {
+            "name": "Nasti, Giuseppe"
+        },
+        {
+            "orcid": "0000-0003-2230-0787",
+            "name": "Paramasivam, Gopinath"
+        },
+        {
+            "name": "Martínez-Denegri, Guillermo"
+        },
+        {
+            "orcid": "0000-0002-3264-1692",
+            "name": "Näsström, Hampus"
+        },
+        {
+            "orcid": "0000-0001-9126-7410",
+            "name": "Michaels, Hannes"
+        },
+        {
+            "orcid": "0000-0003-0230-6938",
+            "name": "Köbler, Hans"
+        },
+        {
+            "name": "Wu, Hua"
+        },
+        {
+            "name": "Benesperi, Iacopo"
+        },
+        {
+            "orcid": "0000-0001-9489-8365",
+            "name": "Dar, M. Ibrahim"
+        },
+        {
+            "name": "Bayrak Pehlivan, Ilknur"
+        },
+        {
+            "orcid": "0000-0002-2389-3548",
+            "name": "Gould, Isaac E."
+        },
+        {
+            "name": "Vagott, Jacob N."
+        },
+        {
+            "name": "Dagar, Janardan"
+        },
+        {
+            "orcid": "0000-0002-1245-5286",
+            "name": "Kettle, Jeff"
+        },
+        {
+            "name": "Yang, Jie"
+        },
+        {
+            "name": "Li, Jinzhao"
+        },
+        {
+            "name": "Smith, Joel A."
+        },
+        {
+            "name": "Pascual, Jorge"
+        },
+        {
+            "name": "Jerónimo-Rendón, Jose J."
+        },
+        {
+            "orcid": "0000-0002-6236-8922",
+            "name": "Montoya, Juan Felipe"
+        },
+        {
+            "orcid": "0000-0002-3860-1149",
+            "name": "Correa-Baena, Juan-Pablo"
+        },
+        {
+            "name": "Qiu, Junming"
+        },
+        {
+            "orcid": "0000-0003-3849-3835",
+            "name": "Wang, Junxin"
+        },
+        {
+            "orcid": "0000-0001-6559-3781",
+            "name": "Sveinbjörnsson, Kári"
+        },
+        {
+            "name": "Hirselandt, Katrin"
+        },
+        {
+            "name": "Dey, Krishanu"
+        },
+        {
+            "orcid": "0000-0002-2259-6154",
+            "name": "Frohna, Kyle"
+        },
+        {
+            "name": "Mathies, Lena"
+        },
+        {
+            "name": "Castriotta, Luigi A."
+        },
+        {
+            "name": "Aldamasy, Mahmoud. H."
+        },
+        {
+            "orcid": "0000-0003-0001-8641",
+            "name": "Vasquez-Montoya, Manuel"
+        },
+        {
+            "name": "Ruiz-Preciado, Marco A."
+        },
+        {
+            "orcid": "0000-0003-2653-4468",
+            "name": "Flatken, Marion A."
+        },
+        {
+            "orcid": "0000-0001-9201-0238",
+            "name": "Khenkin, Mark V."
+        },
+        {
+            "orcid": "0000-0002-9786-4854",
+            "name": "Grischek, Max"
+        },
+        {
+            "orcid": "0000-0002-4770-3809",
+            "name": "Kedia, Mayank"
+        },
+        {
+            "orcid": "0000-0002-6818-9781",
+            "name": "Saliba, Michael"
+        },
+        {
+            "orcid": "0000-0002-0384-5338",
+            "name": "Anaya, Miguel"
+        },
+        {
+            "name": "Veldhoen, Misha"
+        },
+        {
+            "name": "Arora, Neha"
+        },
+        {
+            "orcid": "0000-0003-4920-3282",
+            "name": "Shargaieva, Oleksandra"
+        },
+        {
+            "name": "Maus, Oliver"
+        },
+        {
+            "name": "Game, Onkar S."
+        },
+        {
+            "name": "Yudilevich, Ori"
+        },
+        {
+            "name": "Fassl, Paul"
+        },
+        {
+            "name": "Zhou, Qisen"
+        },
+        {
+            "name": "Betancur, Rafael"
+        },
+        {
+            "name": "Munir, Rahim"
+        },
+        {
+            "name": "Patidar, Rahul"
+        },
+        {
+            "orcid": "0000-0002-8303-7292",
+            "name": "Stranks, Samuel D."
+        },
+        {
+            "name": "Alam, Shahidul"
+        },
+        {
+            "orcid": "0000-0002-7325-1527",
+            "name": "Kar, Shaoni"
+        },
+        {
+            "orcid": "0000-0002-5750-0693",
+            "name": "Unold, Thomas"
+        },
+        {
+            "name": "Abzieher, Tobias"
+        },
+        {
+            "orcid": "0000-0003-2759-7356",
+            "name": "Edvinsson, Tomas"
+        },
+        {
+            "orcid": "0000-0003-0155-9423",
+            "name": "David, Tudur Wyn"
+        },
+        {
+            "orcid": "0000-0002-1557-8361",
+            "name": "Paetzold, Ulrich W."
+        },
+        {
+            "name": "Zia, Waqas"
+        },
+        {
+            "name": "Fu, Weifei"
+        },
+        {
+            "name": "Zuo, Weiwei"
+        },
+        {
+            "name": "Schröder, Vincent R. F."
+        },
+        {
+            "name": "Tress, Wolfgang"
+        },
+        {
+            "orcid": "0000-0002-2847-7359",
+            "name": "Zhang, Xiaoliang"
+        },
+        {
+            "orcid": "0000-0003-2767-3056",
+            "name": "Chiang, Yu-Hsien"
+        },
+        {
+            "name": "Iqbal, Zafar"
+        },
+        {
+            "name": "Xie, Zhiqiang"
+        },
+        {
+            "orcid": "0000-0002-3343-867X",
+            "name": "Unger, Eva"
+        }
+    ],
+    "license": "CC-BY-4.0",
+    "title": "The Perovskite Database (Archive)",
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.1038/s41560-021-00941-3",
+            "resource_type": {
+                "type": "publication",
+                "subtype": "article"
+            },
+            "relation": "isDescribedBy"
+        }
+    ]
+}
