@@ -1,7 +1,9 @@
 # Perovskite Database Archive
 
+[![DOI](https://zenodo.org/badge/50568919.svg)](https://zenodo.org/badge/latestdoi/50568919)
+
 This repository contains a CSV export of [The Perovskite
-Database](https://www.perovskitedatabase.com/), archived at Zenodo.
+Database](https://www.perovskitedatabase.com/), archived at [Zenodo](https://zenodo.org/badge/latestdoi/50568919).
 
 You can get access to the interactive dashboard for the database and upload your own perovskite
 device data at Materials Zone, following [these
