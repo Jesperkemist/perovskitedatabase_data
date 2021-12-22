@@ -326,6 +326,7 @@
             "name": "Unger, Eva"
         }
     ],
+    "description": "This dataset is a CSV snapshot of The Perovskite Database available at www.perovskitedatabase.com.",
     "license": "CC-BY-4.0",
     "title": "The Perovskite Database (Archive)",
     "related_identifiers": [
@@ -338,5 +339,6 @@
             },
             "relation": "isDescribedBy"
         }
-    ]
+    ],
+    "upload_type": "dataset"
 }
