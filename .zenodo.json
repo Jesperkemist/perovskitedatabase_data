@@ -333,7 +333,7 @@
         {
             "scheme": "doi",
             "identifier": "10.1038/s41560-021-00941-3",
-            "resource_type": "publication",
+            "resource_type": "publication-article",
             "relation": "isDescribedBy"
         }
     ],
