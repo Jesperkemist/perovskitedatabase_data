@@ -1,8 +1,7 @@
 # Perovskite Database Archive
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5834699.svg)](https://doi.org/10.5281/zenodo.5834699)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5834698.svg)](https://doi.org/10.5281/zenodo.5834698)
 
 This repository contains a CSV export of [The Perovskite
 Database](https://www.perovskitedatabase.com/), archived at [Zenodo](https://zenodo.org/badge/latestdoi/50568919).
